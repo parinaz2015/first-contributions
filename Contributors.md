@@ -1,5 +1,6 @@
 # Contributors
 - [Ko Junghwan] (https://github.com/kukuku0517)
+- [Parinaz Barakhshan] (https://github.com/parinaz2015 )
 - [himanshu singh (https://github.com/H321-ma)
 - Kapil Singh Negi
 - [Nikhil Singhal] (https://github.com/nikhil-stack)
